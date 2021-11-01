@@ -5,3 +5,5 @@ Excelerum Business Process Manager is an attemp to do a free/open source softwar
 Designed to be implemented on a custom cloud infrastructure extensible as all it can.
 
 The primary purpose is to centralize the business rules that avoid inconsistencies on the run.
+
+This is the begining of the project, more explanations of the supported features soon.
